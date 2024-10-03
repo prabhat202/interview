@@ -1,4 +1,4 @@
-package interview.altimet;
+package interview1;
 
 public class MatrixProblem {
 	public static void main(String[] args) {

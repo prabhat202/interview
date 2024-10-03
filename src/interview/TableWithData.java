@@ -3,7 +3,7 @@ package interview;
 public class TableWithData {
 
 	public static void main(String[] args) {
-		int[] A = { 4, 35, 80, 123, 12345, 44, 8, 5, 24, 3, 33, 11, 3 };
+		int[] A = { 4, 35, 80, 123, 12345, 44, 8, 5, 24, 3, 33, 11, 3, 888888 };
 		int K = 4;
 		new TableWithData().solution(A, K);
 	}

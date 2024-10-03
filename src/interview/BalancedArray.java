@@ -5,6 +5,8 @@ import java.util.Arrays;
 public class BalancedArray {
 
 	public static void main(String[] args) {
+		
+		//testing for revert
 		int arr[] = {-2, 3, 2, -3, 5,-5};
 		Arrays.sort(arr);
 		boolean balanced  = true;

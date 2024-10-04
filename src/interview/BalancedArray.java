@@ -7,6 +7,7 @@ public class BalancedArray {
 	public static void main(String[] args) {
 		int arr[] = {-2, 3, 2, -3, 5,-5};
 		Arrays.sort(arr);
+		//added comment for login
 		boolean balanced  = true;
 		int left = 0 ;
 		int right = arr.length -1;
